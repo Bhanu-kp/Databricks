@@ -1,2 +1,2 @@
 # Databricks
-I explored these codes
+self explored codes
